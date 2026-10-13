@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+
+# Carpeta de salida del compilador
+dist/
+
+# Artefactos del sistema operativo / editor
+.DS_Store
+.vscode/
+*.log
